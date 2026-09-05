@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Wizard Goose's cyan wizard hat</title>
+  <path d="M13 46C19 35 20 19 35 7L49 12L40 19L44 46Z" fill="#79dfe9" stroke="#123d4a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M35 7L30 30L22 42L41 44L37 22L49 12L40 19Z" fill="#37a9bd"/>
+  <path d="M17 37Q30 44 41 35L44 45Q29 52 14 45Z" fill="#173e4c"/>
+  <path d="M6 44Q16 43 27 47Q42 49 57 40Q60 52 39 57Q19 61 6 49Q3 46 6 44Z" fill="#79dfe9" stroke="#123d4a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M9 49Q30 58 54 46" fill="none" stroke="#38a8bc" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 40L37 39L38 46L31 47Z" fill="none" stroke="#f5cd77" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M54 15L56 21L62 23L56 25L54 31L52 25L46 23L52 21Z" fill="#f5cd77" stroke="#123d4a" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

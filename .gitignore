@@ -1,0 +1,7 @@
+node_modules/
+public/skydex-brand.js
+public/skydex-brand.js.LEGAL.txt
+*.log
+.DS_Store
+.env
+.env.*
